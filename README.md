@@ -2,9 +2,9 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas na Estácio, com 23 anos e em transição de carreira para a área de tecnologia. Comprometido com aprendizado contínuo, documentando minha evolução através de certificados no LinkedIn e projetos práticos aqui no GitHub.
 
-**`Objetivo:`** Desenvolver habilidades técnicas sólidas e construir uma carreira significativa na área de desenvolvimento de software.
+**`Objetivo:`**  Desenvolver habilidades técnicas sólidas e construir uma carreira significativa na área de desenvolvimento de software.
 
-**`Interesses:`** Programação, desenvolvimento web, resolução de problemas e tecnologia em geral.
+**`Interesses:`**  Programação, desenvolvimento web, resolução de problemas e tecnologia em geral.
 
 <div> 
   <a href = "mailto:davi.serpa.r.santos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
