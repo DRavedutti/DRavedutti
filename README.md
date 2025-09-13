@@ -8,7 +8,9 @@ Estudante de Análise e Desenvolvimento de Sistemas na Estácio, com 23 anos e e
 
 <div> 
   <a href = "mailto:davi.serpa.r.santos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/davi-serpa-62b8a6255/](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BYRaPA2iyQNOtg3czWGlrJA%3D%3D)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/davi-serpa-62b8a6255/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </div>
 
 ---
