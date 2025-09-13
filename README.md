@@ -2,9 +2,9 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas na Estácio, com 23 anos e em transição de carreira para a área de tecnologia. Comprometido com aprendizado contínuo, documentando minha evolução através de certificados no LinkedIn e projetos práticos aqui no GitHub.
 
-**`Objetivo:`**  Desenvolver habilidades técnicas sólidas e construir uma carreira significativa na área de desenvolvimento de software.
+**`Objetivo:`** Desenvolver habilidades técnicas sólidas e construir uma carreira significativa na área de desenvolvimento de software.
 
-**`Interesses:`**  Programação, desenvolvimento web, resolução de problemas e tecnologia em geral.
+**`Interesses:`** Programação, desenvolvimento web, resolução de problemas e tecnologia em geral.
 
 <div> 
   <a href = "mailto:davi.serpa.r.santos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -25,7 +25,20 @@ Estudante de Análise e Desenvolvimento de Sistemas na Estácio, com 23 anos e e
 
 ---
 
-### Estatísticas
+### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DRavedutti&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br)
-
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="165" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=DRavedutti&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    align="left" 
+    alt="GitHub Most Used Languages" 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRavedutti&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
