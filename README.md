@@ -13,7 +13,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Estácio, com 23 anos e e
 
 ---
 
-### Linguagens e Tecnologias
+### Linguagens
 
 <div style="display: inline_block">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
